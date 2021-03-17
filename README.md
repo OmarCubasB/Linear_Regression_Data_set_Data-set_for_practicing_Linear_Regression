@@ -1,0 +1,2 @@
+# Linear_Regression_Data_set_Data-set_for_practicing_Linear_Regression
+Jupyter Notebook - Python
